@@ -4,9 +4,9 @@
 This project is an automatic math problem-solving tracking system with a 90-10 min Pomodoro timer, developed using Python and Pygame GUI. The system has the following features:
 1. **Pomodoro Timer**: A timer that runs for 90 minutes of work and 10 minutes of break.
 2. **Questionnaire**: After each 90-minute study session, a questionnaire window will prompt the user to select and type in the following properties:
-    - Math topic number focused on during the session with multi-selection features.
-    - Number of problems solved.
-    - Number of theorems learned.
+    - Date I studied.
+    - Math subject I focused on during the session with multi-selection features.
+    - Number of problems/theorems solved.
 3. **Data Recording**: The responses to the questionnaire will be recorded in a CSV file.
 
 ### Tech Stacks:
