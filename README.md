@@ -1,4 +1,4 @@
-## Project Title: Automatic Math Problem-Solving Tracking System with Pomodoro Timer
+## Project Title: Automatic Study Tracking System with Pomodoro Timer
 
 ### Description:
 This project is an automatic problem-solving tracking system with a 90-10 min Pomodoro timer, developed using Python and Pygame GUI. The system has the following features:
